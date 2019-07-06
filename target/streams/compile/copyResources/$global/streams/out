@@ -1,0 +1,3 @@
+[0m[[0mdebug[0m] [0mCopy resource mappings: [0m
+[0m[[0mdebug[0m] [0m	(C:\git\nowtv-watchlist\nowtv-watchlist\src\main\resources\application.conf,C:\git\nowtv-watchlist\nowtv-watchlist\target\scala-2.12\classes\application.conf)[0m
+[0m[[0mdebug[0m] [0m	(C:\git\nowtv-watchlist\nowtv-watchlist\src\main\resources\logback.xml,C:\git\nowtv-watchlist\nowtv-watchlist\target\scala-2.12\classes\logback.xml)[0m
